@@ -35,7 +35,7 @@
   ## 🚀 Быстрый запуск
 
   ### 1. Клонирование репозитория
-  ```bash
+  
   git clone https://github.com/bla3e18/autoshield-demo.git
   cd НАЗВАНИЕ_РЕПОЗИТОРИЯ
 
