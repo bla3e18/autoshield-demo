@@ -37,7 +37,7 @@
   ### 1. Клонирование репозитория
   
   git clone https://github.com/bla3e18/autoshield-demo.git
-  cd НАЗВАНИЕ_РЕПОЗИТОРИЯ
+  cd autoshield-demo
 
   2. Установка зависимостей
 
